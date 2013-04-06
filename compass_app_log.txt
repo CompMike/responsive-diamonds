@@ -1,0 +1,54 @@
+2013-04-06 12:33:42     error style.scss (Line 12: Undefined mixin 'transform'.)
+2013-04-06 12:33:42 overwrite ./style.css 
+2013-04-06 12:33:42     error sass/style.scss (Line 12: Undefined mixin 'transform'.)
+2013-04-06 12:33:42 overwrite ./sass/style.css 
+2013-04-06 12:34:13     error style.scss (Line 12: Undefined mixin 'transform'.)
+2013-04-06 12:34:13 overwrite ./style.css 
+2013-04-06 12:34:13     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:34:13 overwrite ./sass/style.css 
+2013-04-06 12:35:04     error style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass/css3";")
+2013-04-06 12:35:04 overwrite ./style.css 
+2013-04-06 12:35:04     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:35:04 identical ./sass/style.css 
+2013-04-06 12:35:33     error style.scss (Line 113: wrong number of arguments (1 for 2) for `darken')
+2013-04-06 12:35:33 overwrite ./style.css 
+2013-04-06 12:35:33     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:35:33 identical ./sass/style.css 
+2013-04-06 12:35:51 overwrite ./style.css 
+2013-04-06 12:35:51     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:35:51 identical ./sass/style.css 
+2013-04-06 12:36:39 overwrite ./style.css 
+2013-04-06 12:36:39     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:36:39 identical ./sass/style.css 
+2013-04-06 12:37:26 overwrite ./style.css 
+2013-04-06 12:37:26     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:37:26 identical ./sass/style.css 
+2013-04-06 12:37:52 overwrite ./style.css 
+2013-04-06 12:37:52     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:37:52 identical ./sass/style.css 
+2013-04-06 12:38:09 overwrite ./style.css 
+2013-04-06 12:38:09     error sass/style.scss (Line 1: Invalid CSS after "@include ": expected identifier, was ""compass";")
+2013-04-06 12:38:09 identical ./sass/style.css 
+2013-04-06 12:39:33 overwrite ./style.css 
+2013-04-06 12:47:43 overwrite ./style.css 
+2013-04-06 12:48:16 overwrite ./style.css 
+2013-04-06 12:53:19 overwrite ./style.css 
+2013-04-06 12:53:34 overwrite ./style.css 
+2013-04-06 12:53:43 overwrite ./style.css 
+2013-04-06 12:53:51 overwrite ./style.css 
+2013-04-06 12:55:52 overwrite ./style.css 
+2013-04-06 13:00:56     error style.scss (Line 61: Invalid CSS after "...eaecee),#e8eaec": expected ")", was ";);")
+2013-04-06 13:00:56 overwrite ./style.css 
+2013-04-06 13:01:06 overwrite ./style.css 
+2013-04-06 13:01:34 overwrite ./style.css 
+2013-04-06 13:02:40 overwrite ./style.css 
+2013-04-06 13:03:48 overwrite ./style.css 
+2013-04-06 13:31:14 overwrite ./style.css 
+2013-04-06 13:31:27 overwrite ./style.css 
+2013-04-06 13:36:23 overwrite ./style.css 
+2013-04-06 13:36:55 overwrite ./style.css 
+2013-04-06 13:37:03 overwrite ./style.css 
+2013-04-06 13:37:14 overwrite ./style.css 
+2013-04-06 13:37:32 overwrite ./style.css 
+2013-04-06 13:37:45 overwrite ./style.css 
+2013-04-06 13:37:54 overwrite ./style.css 
