@@ -52,3 +52,22 @@
 2013-04-06 13:37:32 overwrite ./style.css 
 2013-04-06 13:37:45 overwrite ./style.css 
 2013-04-06 13:37:54 overwrite ./style.css 
+2013-04-06 14:09:37     error style.scss (Line 72: Invalid CSS after "	@media screen ": expected "{", was "(max-width: 680...")
+2013-04-06 14:09:37 overwrite ./style.css 
+2013-04-06 14:09:55     error style.scss (Line 72: Invalid CSS after "	@media screen ": expected "{", was "(max-width: 680...")
+2013-04-06 14:09:55 identical ./style.css 
+2013-04-06 14:11:02     error style.scss (Line 73: Invalid CSS after "...ia only screen ": expected "{", was "(max-width: 680...")
+2013-04-06 14:11:02 overwrite ./style.css 
+2013-04-06 14:11:46     error style.scss (Line 73: Invalid CSS after "...ia only screen ": expected "{", was "(max-width: 640...")
+2013-04-06 14:11:46 overwrite ./style.css 
+2013-04-06 14:13:24     error style.scss (Line 73: Invalid CSS after "@media all ": expected "{", was "(max-width: 640...")
+2013-04-06 14:13:24 overwrite ./style.css 
+2013-04-06 14:14:03 overwrite ./style.css 
+2013-04-06 14:16:36 overwrite ./style.css 
+2013-04-06 14:16:55 overwrite ./style.css 
+2013-04-06 14:17:16 overwrite ./style.css 
+2013-04-06 14:18:38 overwrite ./style.css 
+2013-04-06 14:18:50 overwrite ./style.css 
+2013-04-06 14:18:56 overwrite ./style.css 
+2013-04-06 14:19:00 overwrite ./style.css 
+2013-04-06 14:19:18 overwrite ./style.css 
